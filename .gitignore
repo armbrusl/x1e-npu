@@ -1,0 +1,11 @@
+# proprietary blobs and build outputs never go into the repo
+blobs/
+*.mbn
+*.elf
+fastrpc_shell*
+*.gguf
+pkg-linux/
+rt/
+fastrpc/
+llama.cpp/
+nixos/cdsp_dtbs.elf
